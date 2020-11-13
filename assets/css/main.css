@@ -2954,7 +2954,7 @@
 		.navPanelToggle *:before {
 			background: rgba(144, 144, 144, 0.65);
 			border-radius: 4px;
-			color: #fff;
+			color: #776d8a;
 			display: block;
 			font-size: 16px;
 			height: 2.25em;
@@ -2982,7 +2982,7 @@
 		left: 0;
 		top: 0;
 		background: #222;
-		color: #fff;
+		color: #776d8a;
 		height: 100%;
 		max-width: 80%;
 		width: 20em;
