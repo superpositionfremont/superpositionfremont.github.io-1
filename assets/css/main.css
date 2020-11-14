@@ -64,7 +64,7 @@
 		background: linear-gradient(to bottom left, #ccccff 0%, #ffccff 100%);
 	}
 	.gradient3{
-		background: linear-gradient(to top right, #cc99ff 0%, #ccccff 100%);
+		background: linear-gradient(to bottom right, #ffccff 0%, #ccccff 100%);
 	}
 /* Containers */
 	.container {
