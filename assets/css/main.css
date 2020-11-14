@@ -55,6 +55,11 @@
 		-webkit-box-sizing: border-box;
 		box-sizing: border-box;
 	}
+	
+/* 	gradient color class */
+	.gradientuwu {
+   	 	background: linear-gradient(to top right, #ccccff 0%, #ffcccc 100%);
+	}
 
 /* Containers */
 	.container {
