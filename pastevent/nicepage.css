@@ -4045,10 +4045,10 @@ strong {
 dfn {
   font-style: italic;
 }
-h1 {
+/* h1 {
   font-size: 2em;
   margin: 0.67em 0;
-}
+} */
 mark {
   background-color: #ff0;
   color: #000;
@@ -16071,12 +16071,12 @@ h6 {
   font-weight: 500;
   color: inherit;
 }
-h1 {
+/* h1 {
   font-size: 2.25rem;
-}
-h2 {
+} */
+/* h2 {
   font-size: 1.5rem;
-}
+} */
 h3 {
   font-size: 1.25rem;
 }
@@ -30841,7 +30841,7 @@ a.u-link.u-text-hover-grey-90:hover {
         
 
         /** common-rules **/
-        h1.u-title
+/*         h1.u-title
         {
         font-weight: 400;
         font-size: 4.5rem;
@@ -30872,7 +30872,7 @@ a.u-link.u-text-hover-grey-90:hover {
         line-height: 1.1;
         margin-top: 20px;
         margin-bottom: 20px;
-        }
+        } */
         h3
         {
         font-weight: 400;
