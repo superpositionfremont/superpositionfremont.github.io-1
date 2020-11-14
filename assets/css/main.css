@@ -56,11 +56,13 @@
 		box-sizing: border-box;
 	}
 	
-/* 	gradient color class */
+/* 	gradient colors */
 	.gradientuwu {
    	 	background: linear-gradient(to top right, #ccccff 0%, #ffcccc 100%);
 	}
-
+	.gradient2{
+		background: linear-gradient(to bottom left, #ccccff 0%, #ffccff 100%);
+	}		
 /* Containers */
 	.container {
 		margin-left: auto;
