@@ -1577,7 +1577,7 @@
 
 	body {
 		background: #fff;
-		padding-top: 6em;
+		padding-top: 4em;
 	}
 
 		body.landing {
@@ -2626,7 +2626,7 @@
 
 		header.major h2, header.major h3, header.major h4, header.major h5, header.major h6 {
 			display: inline-block;
-			margin: 0 0 0.8em;
+			margin: 0 0 0em;
 		}
 
 		header.major p {
@@ -2637,7 +2637,7 @@
 	@media screen and (max-width: 1280px) {
 
 		header.major {
-			margin-bottom: 4em;
+			margin-bottom: 2em;
 		}
 
 			header.major h2 {
