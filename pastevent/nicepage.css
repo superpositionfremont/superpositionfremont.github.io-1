@@ -18274,7 +18274,7 @@ a.u-button-style.u-border-1 {
 .u-separator-2:after,
 .u-text.u-border-2,
 a.u-button-style.u-border-2 {
-  border-width: 2px;
+  border-width: 0px;
 }
 .u-shape-svg.u-border-2 {
   stroke-width: 2px;
@@ -24854,8 +24854,8 @@ a.u-button-style.u-button-style.u-border-active-palette-1-light-3.active {
   stroke: #478ac9;
 }
 .u-button-style.u-border-palette-1-base {
-  border-color: #478ac9 !important;
-  color: #478ac9 !important;
+  border-color: #9088d4  !important;
+  color: #9088d4  !important;
   background-color: transparent !important;
 }
 .u-button-style.u-border-palette-1-base:hover,
