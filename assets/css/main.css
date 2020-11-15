@@ -2747,14 +2747,14 @@
 				border-top: 0;
 			}
 
-/* Wrapper */
+/* Main Wrapper */
 
 	body.is-touch .wrapper.style3 {
 		background-attachment: scroll;
 	}
 
 	.wrapper {
-		padding: 6em 0 4em 0;
+		padding: 6em 0 4em 0 ;
 	}
 
 		.wrapper > .inner {
@@ -2768,7 +2768,7 @@
 
 		.wrapper.style3 {
 			background-attachment: fixed;
-			background-image: url("images/overlay.png"), url("../../images/welcometosupfremont.png");
+			background-image: url("images/overlay.png"), url("../../images/tempbackground.jpg");
 			background-position: center center;
 			background-size: cover;
 		}
