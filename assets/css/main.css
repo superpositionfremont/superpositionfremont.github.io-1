@@ -3310,7 +3310,9 @@
 }
 @media screen and (max-width: 750px) {
 	.welcomelogo {
-		display:none;
+		display:block;
+		margin:0;
+		max-width:80vw;
 	}
 }
 
