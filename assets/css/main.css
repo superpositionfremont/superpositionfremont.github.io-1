@@ -3309,7 +3309,9 @@
 	margin:-90px auto auto -90px;
 	@media screen and (max-width: 750px) {
 		.welcomelogo {
-			width:50%;
+			max-width: 100vw;
+            		max-height: 100%;
+           		margin: auto;
 		}
 	}
 }
