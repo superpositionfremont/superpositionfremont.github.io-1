@@ -3302,12 +3302,12 @@
 				}
 
 		}
-/* Home Page Welcome Logo */
+/* Home Page Logo */
 .welcomelogo {
 	width:140%;
 	height:140%;
-	margin:-90px auto auto -90px
-	@media screen and (max-width: 480px) {
+	margin:-90px auto auto -90px;
+	@media screen and (max-width: 750px) {
 		.welcomelogo {
 			width:80%;
 		}
