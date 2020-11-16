@@ -3,6 +3,10 @@
  * License https://froala.com/wysiwyg-editor/terms/
  * Copyright 2014-2020 Froala Labs
  */
+#wrapper {
+        width: 100%;
+        margin: 0 auto;
+    }
 
 .fr-clearfix::after {
   clear: both;
