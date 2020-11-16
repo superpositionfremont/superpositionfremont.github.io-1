@@ -2980,6 +2980,8 @@
 
 			.navPanelToggle {
 				display: block;
+				width:10%;
+				length:10%;
 			}
 
 		}
