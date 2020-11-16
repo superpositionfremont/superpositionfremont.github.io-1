@@ -3307,10 +3307,10 @@
 	width:140%;
 	height:140%;
 	margin:-90px auto auto -90px;
-	@media screen and (max-width: 750px) {
-		.welcomelogo {
-			display:none;
-		}
+}
+@media screen and (max-width: 750px) {
+	.welcomelogo {
+		display:none;
 	}
 }
 
