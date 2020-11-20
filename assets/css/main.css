@@ -3318,4 +3318,9 @@
 		max-width:80vw;
 	}
 }
+@media screen and (max-width: 750px) {
+	.instaposts {
+		margin:auto !important;
+	}
+}
 
