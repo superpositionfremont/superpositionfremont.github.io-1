@@ -3329,7 +3329,7 @@
 	.instaposts {
 		height: 310px !important;
 		width: 300px !important;
-		margin: 50px 10px !important;
+		margin-top: 50px!important;
 		float:left !important;
 	}
 }
