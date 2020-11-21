@@ -3326,8 +3326,8 @@
 @media screen and (min-width: 1300px) {
 	.instaposts {
 		margin-top:80px !important;
-		margin-left: auto !important;
-		margin-right: auto !important;
+		margin-left: 0 !important;
+		margin-right: 0 !important;
 	}
 }
 
