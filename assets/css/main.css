@@ -3323,4 +3323,9 @@
 		margin:auto !important;
 	}
 }
+@media screen and (min-width: 1300px) {
+	.instaposts {
+		margin-top:80px !important;
+	}
+}
 
