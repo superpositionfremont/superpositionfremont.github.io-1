@@ -3318,6 +3318,8 @@
 		max-width:80vw;
 	}
 }
+
+/*Instagram Posts*/
 @media screen and (max-width: 750px) {
 	.instaposts {
 		margin:auto !important;
