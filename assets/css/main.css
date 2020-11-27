@@ -75,7 +75,7 @@ img {vertical-align: middle;}
 .slideshow-container {
   max-width: 500px;
   position: relative;
-  margin: auto;
+  margin: 10px 50px 50px 80px;
 }
 
 /* Next & previous buttons */
