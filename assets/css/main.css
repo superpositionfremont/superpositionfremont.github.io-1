@@ -73,9 +73,9 @@ img {vertical-align: middle;}
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 500px;
+  width: 50%;
   position: relative;
-  margin: 10px 50px 50px 80px;
+  margin: 10px 10px 50px 10px;
 }
 
 /* Next & previous buttons */
