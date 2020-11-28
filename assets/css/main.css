@@ -2181,7 +2181,7 @@ img {vertical-align: middle;}
 		.select-wrapper:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
-			font-family: playlistscript;
+			font-family: FontAwesome;
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
