@@ -1623,6 +1623,7 @@ img {vertical-align: middle;}
 
 		body.landing {
 			padding-top: 0 !important;
+			overflow-x: hidden;
 		}
 
 		@media screen and (max-width: 980px) {
