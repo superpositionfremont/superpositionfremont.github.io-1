@@ -56,7 +56,7 @@
 		box-sizing: border-box;
 	}
 /* gradient colors */
-	.gradientuwu {
+	/* .gradientuwu {
    	 	background: linear-gradient(to top right, #ccccff 0%, #ffcccc 100%);
 	}
 	.gradient2{
@@ -64,7 +64,18 @@
 	}
 	.gradient3{
 		background: linear-gradient(to bottom right, #ffccff 0%, #ccccff 100%);
+	} */
+
+	.gradientuwu {
+			background: linear-gradient(to top right, #f9d8c4 0%, #f9e4d6 100%);
 	}
+	.gradient2{
+		background: linear-gradient(to bottom left, #fcf3ed 0%, #e3b09c 100%);
+	}
+	.gradient3{
+		background: linear-gradient(to bottom right, #e3b09c 0%, #b88d7d 100%);
+	}
+
 /* wave  */
 .wave {
 	position: relative;
@@ -3392,4 +3403,3 @@ img {vertical-align: middle;}
 		float:left !important;
 	}
 }
-
