@@ -24854,8 +24854,8 @@ a.u-button-style.u-button-style.u-border-active-palette-1-light-3.active {
   stroke: #478ac9;
 }
 .u-button-style.u-border-palette-1-base {
-  border-color: #9088d4  !important;
-  color: #9088d4  !important;
+  border-color: #b88d7d  !important;
+  color: #b88d7d  !important;
   background-color: transparent !important;
 }
 .u-button-style.u-border-palette-1-base:hover,
@@ -30838,7 +30838,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 
 
-        
+
 
         /** common-rules **/
 /*         h1.u-title
@@ -30998,7 +30998,7 @@ a.u-link.u-text-hover-grey-90:hover {
         /*end-media rules*/
         /** publish-rules **/
 
-        
+
 
         /** cms-rules **/
         /*begin-responsive rules*/
@@ -31110,7 +31110,7 @@ a.u-link.u-text-hover-grey-90:hover {
         color: #ffffff;
         }
         /** alt-color-rules **/
-    
+
 
 
 /*end-variables sitestylecss*/
@@ -31162,6 +31162,6 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 
- /*begin-variables base-font-size*/ 
+ /*begin-variables base-font-size*/
  html { font-size: 16px; }
  /*end-variables base-font-size*/
