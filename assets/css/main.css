@@ -3403,3 +3403,10 @@ img {vertical-align: middle;}
 		float:left !important;
 	}
 }
+
+@media screen and (max-width: 750px) {
+	#sitetitle {
+		font-size: 4rem;
+		font-weight: 250;
+	}
+}
