@@ -3406,7 +3406,7 @@ img {vertical-align: middle;}
 
 @media screen and (max-width: 750px) {
 	#sitetitle {
-		font-size: 4rem;
-		font-weight: 250;
+		font-size: 4rem !important;
+		font-weight: 250 !important;
 	}
 }
