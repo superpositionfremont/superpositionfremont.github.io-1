@@ -15,3 +15,11 @@
   font-style: normal;
   font-color: #000000;
 }
+
+@font-face {
+    font-family: 'daydreamregular';
+    src: url('../fonts/daydream_free-webfont.woff2') format('woff2'),
+         url('../fonts/daydream_free-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}

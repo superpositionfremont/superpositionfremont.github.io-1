@@ -48,8 +48,7 @@
 
 .fr-view {
   word-wrap: break-word; }
-  .fr-view span[style~="color:"] a {
-    color: inherit; }
+
   .fr-view strong {
     font-weight: 700; }
   .fr-view table {
@@ -4030,9 +4029,7 @@ a {
   -webkit-text-decoration-skip: objects;
 }
 a:active,
-a:hover {
-  outline-width: 0;
-}
+
 abbr[title] {
   border-bottom: none;
   text-decoration: underline;
@@ -4663,9 +4660,7 @@ ol {
   color: inherit;
 }
 .u-text:not(ul):not(ol):not(p):not(.u-post-content):not(.u-block-content):not(.u-product-desc) a,
-.u-text:not(ul):not(ol):not(p):not(.u-post-content):not(.u-block-content):not(.u-product-desc) a:hover {
-  text-decoration: none;
-}
+.u-text:not(ul):not(ol):not(p):not(.u-post-content):not(.u-block-content):not(.u-product-desc) 
 .u-link,
 a {
   border-top-width: 0;
@@ -5567,9 +5562,7 @@ a {
   color: #f0f0f0;
   text-decoration: none;
 }
-a:hover {
-  color: #fff;
-}
+
 a:focus {
   outline: thin dotted;
   outline: 5px auto -webkit-focus-ring-color;
@@ -16051,7 +16044,7 @@ html {
   font-size: 1rem;
   line-height: 1.6;
 }
-.u-body h1,
+
 .u-body h2,
 .u-body h3,
 .u-body h4,
@@ -16059,7 +16052,7 @@ html {
 .u-body h6 {
   padding: 0;
 }
-h1,
+
 h2,
 h3,
 h4,
@@ -16923,10 +16916,7 @@ blockquote .small:before {
   font-size: 14px;
   line-height: 18px;
 }
-.pswp__share-tooltip a:hover {
-  text-decoration: none;
-  color: #000;
-}
+
 .pswp__share-tooltip a:first-child {
   /* round corners on the first/last list item */
   border-radius: 2px 2px 0 0;
@@ -18808,7 +18798,7 @@ a.u-button-style.u-border-20 {
 .u-body {
   font-family: 'Open Sans',sans-serif;
 }
-h1,
+
 h2,
 h3,
 h4,
@@ -30959,30 +30949,14 @@ a.u-link.u-text-hover-grey-90:hover {
 
         /** publish-rules **/
         /*begin-media rules*/
-        @media (max-width: 767px) {
-        h1.u-title
-        {
-        font-size: 3.75rem;
-        }
-        }
-        @media (max-width: 575px) {
-        h1.u-title
-        {
-        font-size: 3rem;
-        }
-        }
+
         @media (max-width: 575px) {
         h2.u-subtitle
         {
         font-size: 1.5rem;
         }
         }
-        @media (max-width: 575px) {
-        h1:not(.u-title)
-        {
-        font-size: 2.25rem;
-        }
-        }
+
         @media (max-width: 575px) {
         h2:not(.u-subtitle)
         {
@@ -31002,22 +30976,13 @@ a.u-link.u-text-hover-grey-90:hover {
 
         /** cms-rules **/
         /*begin-responsive rules*/
-        .u-sm h1.u-title
-        {
-        font-size: 3.75rem;
-        }
-        .u-xs h1.u-title
-        {
-        font-size: 3rem;
-        }
+
+
         .u-xs h2.u-subtitle
         {
         font-size: 1.5rem;
         }
-        .u-xs h1:not(.u-title)
-        {
-        font-size: 2.25rem;
-        }
+
         .u-xs h2:not(.u-subtitle)
         {
         font-size: 1.5rem;

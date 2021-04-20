@@ -1746,6 +1746,7 @@ img {vertical-align: middle;}
 
 	p {
 		margin: 0 0 2em 0;
+		font-family: 'Forum', cursive;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -1901,6 +1902,7 @@ img {vertical-align: middle;}
 		text-decoration: none;
 		text-transform: uppercase;
 		white-space: nowrap;
+		font-family: 'Julius Sans One', sans-serif;
 	}
 
 		input[type="submit"]:hover,
