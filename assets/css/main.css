@@ -104,6 +104,9 @@ img {vertical-align: middle;}
   margin: 10px 10px 50px 10px;
 }
 
+.whoweare {
+	margin: 1em 0 1em 0;
+}
 /* Next & previous buttons */
 .prev, .next {
   cursor: pointer;
@@ -1429,7 +1432,7 @@ img {vertical-align: middle;}
 		}
 
 		.row.\32 00\25 > * {
-			padding: 0 0 0 2.5em;
+			padding: 0 0 2em 2.5em;
 		}
 
 		.row.\32 00\25 {
@@ -1753,7 +1756,7 @@ img {vertical-align: middle;}
 		color: #484848;
 		font-weight: 700;
 		line-height: 1em;
-		margin: 0 0 1em 0;
+		margin: 0em 0 1em 0;
 		text-transform: uppercase;
 	}
 
@@ -1764,7 +1767,7 @@ img {vertical-align: middle;}
 
 	h2 {
 		font-size: 1.75em;
-		line-height: 1.5em;
+		line-height: 1em;
 	}
 
 	h3 {
@@ -1963,6 +1966,11 @@ img {vertical-align: middle;}
 			font-size: 1.35em;
 		}
 
+@media screen and (max-width: 480px){
+	.button.big{
+		font-size: 1em;
+	}
+}
 		input[type="submit"].disabled, input[type="submit"]:disabled,
 		input[type="reset"].disabled,
 		input[type="reset"]:disabled,
@@ -2049,7 +2057,7 @@ img {vertical-align: middle;}
 			input[type="button"],
 			button,
 			.button {
-				padding: 0;
+				padding: 0 1em;
 			}
 
 		}
@@ -2121,7 +2129,6 @@ img {vertical-align: middle;}
 					margin-left: 0 !important;
 					margin-right: 0 !important;
 				}
-
 		}
 
 		@media screen and (max-width: 736px) {
@@ -2145,6 +2152,11 @@ img {vertical-align: middle;}
 
 			.feature-grid .feature .image {
 				margin-bottom: 1em;
+			}
+
+			.feature-grid .feature .image img {
+				display: inline;
+				max-width: 65%;
 			}
 
 		}
@@ -2605,10 +2617,10 @@ img {vertical-align: middle;}
 						padding: 0 0 0 0.5em;
 					}
 
-			@media screen and (max-width: 480px) {
+			@media screen and (max-width: 550px) {
 
 				ul.actions {
-					margin: 0 0 2em 0;
+					margin: 0 1em 2em 1em;
 				}
 
 					ul.actions li {
@@ -2689,7 +2701,7 @@ img {vertical-align: middle;}
 	}
 
 	header.major {
-		margin: 0 0 6em 0;
+		margin: 0 0 2em 0;
 	}
 
 		header.major h2 {
@@ -2698,7 +2710,11 @@ img {vertical-align: middle;}
 
 		header.major h2, header.major h3, header.major h4, header.major h5, header.major h6 {
 			display: inline-block;
-			margin: 0 0 1em;
+			margin: 0 0 0em;
+		}
+
+		header.major2 h2 {
+			margin: 1em 0 1em !important;
 		}
 
 		header.major p {
@@ -2743,10 +2759,11 @@ img {vertical-align: middle;}
 
 	}
 
-	@media screen and (max-width: 480px) {
+	@media screen and (max-width: 535px) {
 
 		header.major h2 {
 			font-size: 1.75em;
+			width:100%;
 		}
 
 	}
@@ -2826,7 +2843,7 @@ img {vertical-align: middle;}
 	}
 
 	.wrapper {
-		padding: 6em 0 4em 0 ;
+		padding: 4em 0 2em 0 ;
 	}
 
 		.wrapper > .inner {
@@ -3380,13 +3397,13 @@ img {vertical-align: middle;}
 .welcomelogo {
 	width:140%;
 	height:140%;
-	margin:-90px auto auto -90px;
+	margin:-90px auto auto -135px;
 }
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 735px) {
 	.welcomelogo {
 		display:inline-block;
-		margin:0;
-		max-width:80vw;
+		margin: 0;
+		max-width:75vw;
 	}
 }
 
