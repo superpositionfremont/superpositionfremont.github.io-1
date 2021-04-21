@@ -2465,7 +2465,6 @@ img {vertical-align: middle;}
 			.image.rounded img {
 				border: solid 0.5em rgba(144, 144, 144, 0.25);
 				border-radius: 50%;
-				width: 200px;
 			}
 
 		.image.captioned {
