@@ -2467,12 +2467,14 @@ img {vertical-align: middle;}
 				border-radius: 50%;
 				height: 12em;
 				width:12em;
+				object-fit:cover;
 			}
 
 				@media screen and (max-width: 1290px) {
 					.image.rounded img{
 						height:10em;
 						width:10em;
+						object-fit:cover;
 					}
 				}
 
@@ -2480,6 +2482,7 @@ img {vertical-align: middle;}
 					.image.rounded img{
 						height:13em;
 						width:13em;
+						object-fit:cover;
 					}
 				}
 
@@ -2487,6 +2490,7 @@ img {vertical-align: middle;}
 					.image.rounded img{
 						height:10em;
 						width:10em;
+						object-fit:cover;
 					}
 				}
 
@@ -2494,6 +2498,7 @@ img {vertical-align: middle;}
 					.image.rounded img{
 						height:12em;
 						width:12em;
+						object-fit:cover;
 					}
 				}
 
