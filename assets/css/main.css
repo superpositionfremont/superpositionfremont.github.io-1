@@ -107,6 +107,17 @@ img {vertical-align: middle;}
 .whoweare {
 	margin: 1em 0 1em 0;
 }
+
+.youtubevids {
+	width: 410px;
+	height: 270px;
+}
+
+@media screen and (max-width: 680px) {
+	.youtubevids{
+		width: 100%;
+	}
+}
 /* Next & previous buttons */
 .prev, .next {
   cursor: pointer;
@@ -1697,7 +1708,7 @@ img {vertical-align: middle;}
 
 		}
 
-		@media screen and (max-width: 1280px) {
+		@media screen and (max-width: 1400px) {
 
 			body, input, select, textarea {
 				font-size: 11pt;
