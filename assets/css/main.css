@@ -1923,7 +1923,7 @@ img {vertical-align: middle;}
 		-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-		background-color: #48b791;
+		background-color: #487894;
 		border-radius: 4px;
 		color: #ffffff !important;
 		border: 0;
@@ -1945,7 +1945,7 @@ img {vertical-align: middle;}
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #90bede;
+			background-color: #48b791;
 		}
 
 		input[type="submit"]:active,
@@ -1953,7 +1953,7 @@ img {vertical-align: middle;}
 		input[type="button"]:active,
 		button:active,
 		.button:active {
-			background-color: #262429;
+			background-color: #48b791;
 		}
 
 		input[type="submit"].icon,
@@ -2062,7 +2062,7 @@ img {vertical-align: middle;}
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: #90bede; 
+			background-color: #487894; 
 			color: #ffffff !important;
 		}
 
@@ -2079,7 +2079,7 @@ img {vertical-align: middle;}
 			input[type="button"].special:active,
 			button.special:active,
 			.button.special:active {
-				background-color: #48b791;
+				background-color: #487894;
 			}
 
 		@media screen and (max-width: 480px) {
