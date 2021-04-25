@@ -1923,7 +1923,7 @@ img {vertical-align: middle;}
 		-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-		background-color: #323037;
+		background-color: #003149;
 		border-radius: 4px;
 		color: #ffffff !important;
 		border: 0;
@@ -2071,7 +2071,7 @@ img {vertical-align: middle;}
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: #f44066;
+				background-color: #48B791;
 			}
 
 			input[type="submit"].special:active,
@@ -2079,7 +2079,7 @@ img {vertical-align: middle;}
 			input[type="button"].special:active,
 			button.special:active,
 			.button.special:active {
-				background-color: #f21040;
+				background-color: #487894;
 			}
 
 		@media screen and (max-width: 480px) {
@@ -2241,8 +2241,8 @@ img {vertical-align: middle;}
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #f32853;
-			box-shadow: 0 0 0 1px #f32853;
+			border-color: #48B791;
+			box-shadow: 0 0 0 1px #48B791;
 		}
 
 	.select-wrapper {
@@ -2346,15 +2346,15 @@ img {vertical-align: middle;}
 		input[type="checkbox"]:checked + label:before,
 		input[type="radio"]:checked + label:before {
 			content: '\f00c';
-			background: #323037;
-			border-color: #323037;
+			background: #003149;
+			border-color: #003149;
 			color: #ffffff;
 		}
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #f32853;
-			box-shadow: 0 0 0 1px #f32853;
+			border-color: #003149;
+			box-shadow: 0 0 0 1px #003149;
 		}
 
 	input[type="checkbox"] + label:before {
