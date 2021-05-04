@@ -118,7 +118,8 @@ img {vertical-align: middle;}
 }
 
 .youtubevids {
-	width:45%; 
+	width:45%;
+	height:300px;
 }
 
 @media screen and (max-width: 680px) {
