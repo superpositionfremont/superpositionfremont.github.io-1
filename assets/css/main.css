@@ -2776,6 +2776,7 @@ img {vertical-align: middle;}
 
 	header.major {
 		margin: 0 0 2em 0;
+		text-align:center !important;
 	}
 
 		header.major h2 {
