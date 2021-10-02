@@ -2447,6 +2447,8 @@ img {vertical-align: middle;}
 		.image img {
 			border-radius: 4px;
 			display: block;
+			object-fit:cover;
+			
 		}
 
 		.image.left, .image.right {
