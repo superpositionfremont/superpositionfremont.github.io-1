@@ -2784,6 +2784,10 @@ img {vertical-align: middle;}
 
 		header.major h2 {
 			font-size: 3em;
+			text-align:center;
+			width:70%;
+			margin:auto;
+			padding:0px;
 		}
 
 		header.major h2, header.major h3, header.major h4, header.major h5, header.major h6 {
@@ -2792,7 +2796,10 @@ img {vertical-align: middle;}
 		}
 
 		header.major2 h2 {
-			padding:40px;
+			text-align:center;
+			width:70%;
+			margin:auto;
+			padding:0px;
 		}
 
 		header.major p {
